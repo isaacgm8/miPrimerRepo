@@ -397,7 +397,7 @@ FodyWeavers.xsd
 *.msp
 
 # JetBrains Rider
-*.sln.iml
+*.sln
 
-#Elimina este archivo de configuración de la aplicación en la raíz del proyecto
-appsettings.json 
+#Elimina este archivo de configuración 
+appsettings.json
